@@ -6,7 +6,9 @@
 
 ###
 
-```rust<br>currently optimizing human latency through Rust and caffeine.<br>on day(n): compiling thoughts → linking ideas → executing change.<br>```
+```rust
+currently optimizing human latency through Rust and caffeine.<br>on day(n): compiling thoughts → linking ideas → executing change.
+```
 
 ###
 
