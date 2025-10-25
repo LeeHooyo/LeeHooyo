@@ -7,7 +7,17 @@
 ###
 
 ```rust
-currently optimizing human latency through Rust and caffeine.<br>on day(n): compiling thoughts → linking ideas → executing change.
+#[derive(Debug)]
+struct Human {
+    name: &'static str,
+    caffeine: u8,
+}
+
+impl Human {
+    fn code(&self) -> Result<(), CoffeeError> {
+        Ok(println!("{} is compiling thoughts...", self.name))
+    }
+}
 ```
 
 ###
